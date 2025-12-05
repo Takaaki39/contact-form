@@ -3,7 +3,7 @@
 ## 環境構築
 Dockerビルド
 1. git clone git@github.com:Takaaki39/contact-form.git
-2. cd fleamarket-app/
+2. cd first-laravel/
 3. docker-compose up -d --build
 
 ※MySQLはOSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください。
